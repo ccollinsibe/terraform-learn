@@ -1,0 +1,12 @@
+.terraform/*
+
+main1.txt
+main2.txt
+main3.txt
+main4.txt 
+main5.txt
+
+*.tfstate
+*.tfstate.*
+
+*.tfvars
